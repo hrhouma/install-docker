@@ -1,4 +1,5 @@
-cd /chemin/vers/votre/script
+pwd
+cd /install-docker/
 chmod +x install-docker.sh
 ./install-docker.sh
 docker version
