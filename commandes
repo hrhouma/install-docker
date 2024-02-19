@@ -1,0 +1,5 @@
+cd /chemin/vers/votre/script
+chmod +x install-docker.sh
+./install-docker.sh
+docker version
+docker compose version
