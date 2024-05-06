@@ -1,4 +1,4 @@
-sh 
+su
 #ou sudo -s
 pwd
 git clone https://github.com/hrhouma/install-docker.git
